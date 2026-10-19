@@ -1,0 +1,22 @@
+{
+  "name": "LearningTopic",
+  "type": "object",
+  "properties": {
+    "order": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "kanji": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "level": {
+      "type": "string"
+    }
+  },
+  "required": []
+}
